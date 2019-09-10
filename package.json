@@ -1,7 +1,7 @@
 {
   "name": "the-docs",
   "version": "0.0.1",
-        "description": "We doc it all",
+  "description": "We doc it all",
   "main": "index.js",
   "scripts": {
     "test": "npx mocha -w --config .mocharc.js *.spec.js",
